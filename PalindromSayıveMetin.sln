@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromSayıveMetin", "PalindromSayıveMetin.csproj", "{25434039-C576-4034-AE11-6627C0191470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25434039-C576-4034-AE11-6627C0191470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25434039-C576-4034-AE11-6627C0191470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25434039-C576-4034-AE11-6627C0191470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25434039-C576-4034-AE11-6627C0191470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A7FE11-E425-4033-9CA9-47BCA4B025BE}
+	EndGlobalSection
+EndGlobal
